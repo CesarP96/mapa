@@ -3,7 +3,7 @@
     {
       "type": "Feature",
       "properties": {
-        "paint": "#090",
+        "paint": "#dd1313",
         "personas": 10000
       },
       "geometry": {
