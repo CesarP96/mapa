@@ -454,7 +454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "paint": "#88",
+        "paint": "#090",
         "personas": 5000
       },
       "geometry": {
